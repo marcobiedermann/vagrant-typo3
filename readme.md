@@ -1,5 +1,33 @@
 # Vagrant Box for TYPO3
 
+## Software
+
+### Server
+
+* Apache
+
+### Database
+
+* MySQL 5.6
+
+### PHP
+
+* PHP 7.0
+  * gd
+  * MySQL
+  * SOAP
+  * XML
+  * zip
+
+### TYPO3
+
+* TYPO3 8.7.4
+
+### Image Libraries
+
+* GraphicsMagick
+* Imagemagick
+
 ## Usage
 
 Start Vagrant box
