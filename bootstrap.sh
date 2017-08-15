@@ -53,3 +53,8 @@ a2enmod rewrite
 
 # Restart Apache Server
 service apache2 restart
+
+# Install TYPO3
+cd /var/www/html
+
+sh typo3-setup.sh
