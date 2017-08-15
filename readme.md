@@ -50,6 +50,6 @@ Back-End: [http://localhost:8080/typo3](http://localhost:8080/typo3)
 ### MySQL
 
 Host: localhost  
-Database: contao  
+Database: typo3  
 Username: root  
 Password: root  
