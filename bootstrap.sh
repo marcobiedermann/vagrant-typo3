@@ -44,6 +44,10 @@ apt-get -y install php7.0-zip
 sed -i "s/^max_execution_time.*/max_execution_time = 240/" /etc/php/7.0/apache2/php.ini
 sed -i "s/^; max_input_vars.*/max_input_vars = 1500/" /etc/php/7.0/apache2/php.ini
 
+# Install Image Libraries
+apt-get -y install graphicsmagick
+apt-get -y install imagemagick
+
 # Enable Apache Modules
 a2enmod rewrite
 
