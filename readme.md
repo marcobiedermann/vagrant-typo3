@@ -1,5 +1,19 @@
 # Vagrant Box for TYPO3
 
+## Usage
+
+Start Vagrant box
+
+```
+vagrant up
+```
+
+Stop Vagrant box
+
+```
+vagrant halt
+```
+
 ## Access
 
 Front-End: [http://localhost:8080/](http://localhost:8080/)  
