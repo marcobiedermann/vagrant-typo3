@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-TYPO3_VERSION="8.7.4"
+TYPO3_VERSION="8.7.7"
 
 # Download and extract Typo3
 curl -L -o typo3_src.tgz get.typo3.org/${TYPO3_VERSION}
